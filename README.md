@@ -15,7 +15,7 @@ This project presents an exploratory data analysis (EDA) of historical weather d
 | File/Folder | Description |
 |-------------|-------------|
 | `Mumbai Weather Analysis.ipynb` | Jupyter Notebook with complete data analysis |
-| `data/Mumbai_1990_2022_Santacruz.csv` | Dataset used (if included) |
+| `Data/Mumbai_1990_2022_Santacruz.csv` | Dataset used (if included) |
 | `requirements.txt` | Python dependencies |
 | `README.md` | This file |
 
