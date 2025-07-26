@@ -42,27 +42,6 @@ This project presents an exploratory data analysis (EDA) of historical weather d
 
 ---
 
-## 📦 Installation
-
-Clone this repository and install the required libraries:
-
-```bash
-git clone https://github.com/yourusername/mumbai-weather-analysis.git
-cd mumbai-weather-analysis
-pip install -r requirements.txt
-````
-
----
-
-## 🚀 How to Run
-
-Make sure you have Jupyter Notebook or JupyterLab installed. Then run:
-
-```bash
-jupyter notebook "Mumbai Weather Analysis.ipynb"
-```
-
----
 
 ## ✅ Insights
 
