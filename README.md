@@ -57,7 +57,3 @@ This project presents an exploratory data analysis (EDA) of historical weather d
 * The dataset used here represents a **single weather station** (Santacruz), so results may not generalize across all of Mumbai.
 
 ---
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
